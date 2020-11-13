@@ -1,7 +1,7 @@
 #+title:  virtual-labs-workshop-faq
 #+SETUPFILE: ../org-templates/level-1.org
 
-* Q01. What are Virtual Labs?
+**** Q01. What are Virtual Labs?
   Virtual Labs are intended to augment the learning of
   science and engineering subjects through performing
   experiments. The experiments are designed either as
@@ -13,16 +13,16 @@
   Labs is an initiative of Ministry of Human Resources,
   India.
 
-* Q02. Who can request for a Virtual Labs Workshop?
+**** Q02. Who can request for a Virtual Labs Workshop?
   Workshops can be requested by faculty members or
   college/institute management of the interested Science &
   Engineering Institutions.
   
-* Q03. Who can participate in the Workshop?
+**** Q03. Who can participate in the Workshop?
   All interested faculty and students of the
   college/institutes can participate in the workshop.
 
-* Q04. What are the system requirements for a Virtual Lab Workshop?
+**** Q04. What are the system requirements for a Virtual Lab Workshop?
   For a Virtual Labs workshop to be conducted, your
   college/institute would have to meet the following system
   requirements: System configuration (Recommended)
@@ -39,7 +39,7 @@
 
     - JavaScript should be enabled on the browser
 
-* Q05. What are the other requirements for a Virtual Labs Workshop?
+**** Q05. What are the other requirements for a Virtual Labs Workshop?
   Virtual Labs workshop to be conducted , your
   college/institute would have to meet the following
   requirements:
@@ -61,7 +61,7 @@
       5902, and 8700 would need to be opened to facilitate
       Virtual Labs network traffic.
 
-* Q06. How can I request for a workshop to be conducted at my college
+**** Q06. How can I request for a workshop to be conducted at my college
 
    You can request for a workshop to be conducted at your
    college by following the below steps :
@@ -85,22 +85,22 @@
      scheduled date.
 
  
-* Q07. What would be covered in the workshop?
+**** Q07. What would be covered in the workshop?
   An overview ,demo and hands-on of two Virtual Labs will be
   covered during the workshop.
 
-* Q08. Does my college have to pay for the workshops?
+**** Q08. Does my college have to pay for the workshops?
   College/Institute will have to pay for the travel,lodging
   and boarding for two Virtual Labs representatives.
 
-* Q09. Where can I get support on Virtual Labs Workshops?
+**** Q09. Where can I get support on Virtual Labs Workshops?
   You can get help on workshops and other Virtual Labs
   related issues by posting on the mailing list for
   engineers contributing to Virtual Labs. You may
   [[https://groups.google.com/a/vlabs.ac.in/g/engineers?pli=1][Subscribe/Unsubscribe]] to the [[https://groups.google.com/a/vlabs.ac.in/g/engineers][engineers]] mailing list. You
   can also post your queries to the teacher's community
 
-* Q10. What are the terms and conditions for using Virtual Labs in your college?
+**** Q10. What are the terms and conditions for using Virtual Labs in your college?
   There is no financial liability on any party for using
   Virtual Labs. It is free to use.
 
@@ -111,6 +111,6 @@
     contact for all logistical and technical coordination
     between the institute and Virtual Labs.
 
-* Q11. Where have the Virtual Labs workshops been conducted?
+**** Q11. Where have the Virtual Labs workshops been conducted?
   Please follow the [[http://outreach.virtual-labs.ac.in/ws_details#/ws-list][link]] to view the list of colleges where
   Virtual Labs Workshops have been conducted.
