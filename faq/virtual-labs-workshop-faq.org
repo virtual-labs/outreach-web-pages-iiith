@@ -7,7 +7,7 @@
   experiments. The experiments are designed either as
   simulations or as remote triggered. A remote triggered lab
   allows a user to connect to real equipment using a web
-  browser. There are currently around 150 and labs and 1500
+  browser. There are currently around 150 labs and 1500
   experiments at various stages of development and
   deployment. They are currently hosted at [[http://vlabs.iiit.ac.in/][Vlabs]]. Virtual
   Labs is an initiative of Ministry of Human Resources,
@@ -40,7 +40,7 @@
     - JavaScript should be enabled on the browser
 
 **** Q05. What are the other requirements for a Virtual Labs Workshop?
-  Virtual Labs workshop to be conducted , your
+  For a Virtual Labs workshop to be conducted , your
   college/institute would have to meet the following
   requirements:
 
@@ -52,7 +52,7 @@
     - The college/institute should be a Central/State
       University or institute/college approved by AICTE/UGC.
 
-    - The college/institute must have an auditorium with a
+    - For onsite workshops,the college/institute must have an auditorium with a
       seating capacity of at least 100 and a
       designated/common lab space having 35 PCs or more.
 
@@ -74,8 +74,8 @@
      Team.
 
    * On confirmation from the Virtual Labs team on the
-     workshop date (as filled in the Expression of Interest)
-     , you would need to download a checklist
+     workshop date (as filled in the Expression of Interest),
+     you would need to download a checklist
      [form](./forms/Prerequisite-online-version-workshop.docx)
      You would then need to mail the duly fill/scanned form
      to [[mailto:ioc-iiith@vlabs.ac.in][ioc-iiith@vlabs.ac.in]]
@@ -86,19 +86,19 @@
 
  
 **** Q07. What would be covered in the workshop?
-  An overview ,demo and hands-on of two Virtual Labs will be
+  An overview, demo and hands-on of two Virtual Labs will be
   covered during the workshop.
 
 **** Q08. Does my college have to pay for the workshops?
-  College/Institute will have to pay for the travel,lodging
+  College/Institute will have to pay for the travel, lodging
   and boarding for two Virtual Labs representatives.
 
 **** Q09. Where can I get support on Virtual Labs Workshops?
   You can get help on workshops and other Virtual Labs
   related issues by posting on the mailing list for
   engineers contributing to Virtual Labs. You may
-  [[https://groups.google.com/a/vlabs.ac.in/g/engineers?pli=1][Subscribe/Unsubscribe]] to the [[https://groups.google.com/a/vlabs.ac.in/g/engineers][engineers]] mailing list. You
-  can also post your queries to the teacher's community
+  [[https://groups.google.com/a/vlabs.ac.in/g/engineers?pli=1][Subscribe/Unsubscribe to the engineers]] mailing list. You
+  can also post your queries to the teacher's community [give link here]
 
 **** Q10. What are the terms and conditions for using Virtual Labs in your college?
   There is no financial liability on any party for using
@@ -112,5 +112,5 @@
     between the institute and Virtual Labs.
 
 **** Q11. Where have the Virtual Labs workshops been conducted?
-  Please follow the [[http://outreach.virtual-labs.ac.in/ws_details#/ws-list][link]] to view the list of colleges where
+  Please follow the [[http://outreach.vlabs.ac.in/ws_details#/ws-list][link]] to view the list of colleges where
   Virtual Labs Workshops have been conducted.
