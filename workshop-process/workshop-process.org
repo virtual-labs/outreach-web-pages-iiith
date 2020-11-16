@@ -53,11 +53,19 @@
       - Within a lab, lab-level and experiment-level
         feedback links should be working within the
         institute network.
+        
+        Documents to be given by College after the online workrshop:
+        1. Attendance sheet either from the web interface tool on which the workshop was conducted (e.g: Zoom or Cisco Webex or google meet etc)
+        2. A Photo of a snashot of the particpants obtained from the meeting tool
+        3. Online feedback forms filled in by participants collected by the college and uploaded into the repository prescribed by the Virtual Lab team.
+        4. A Letter from the head of the college stating that the workshop was conducted with the number of participants and date. The template for this letter will be shared with the College on confirmation of workshop date by Virtual lab team.  
+         
+        
     
 *** Requirements for Inperson Workshops
 
     1. Students of II, III and IV years across all Engineering Deciplices.
-    2. Number of student per session could be 30-60.
+    2. Number of student per session could be 30-60. However, the minimum number of participants covered in a day must be at least 200, in multiple sessions.     
     3. System configuration (Recommended for each person)
          - Browser: Firefox and Chrome
          - Internet connection (4 Mbps) with Virtual labs web page accessible from the browser.
@@ -85,4 +93,10 @@
       5. On receipt of the above confirmation, Virtual Labs
          Outreach Team would conduct the workshop on the
          scheduled date.
+         6. The college must provide the following documentts to complete the workshop:
+         1. Attendance sheets duly signed by each of the participants.
+         2. Feedback on forms made available to the college on confirmation of the workshop date. 
+         3. 2 - Photographs of each workshop session
+         4. A Letter from the head of the college stating that the workshop was conducted with the number of participants and date. The template for this letter will be shared with the College on confirmation of workshop date by Virtual lab team.  
+         
 
