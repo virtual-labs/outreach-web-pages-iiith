@@ -16,7 +16,7 @@
 
 | S.NO | Document Locaiton| Purpose  |
 | :---: | :---: | :---: |
-| 1 | [faq](https://github.com/virtual-labs/outreach-web-pages/blob/main/faq/virtual-labs-workshop-faq.org) |  | This document contains Virtual Labs faq
+| 1 | [faq](https://github.com/virtual-labs/outreach-web-pages/blob/main/faq/virtual-labs-workshop-faq.org) |  | This document contains Virtual Labs faq|
 | 2 | [photographs](https://github.com/virtual-labs/outreach-web-pages/tree/main/photographs) | This directory contains photo gallery of Virtual Labs workshops  |
 | 3 | [workshop-data](https://github.com/virtual-labs/outreach-web-pages/blob/main/workshop-data/workshops-data.csv) | This document contains Virtual Labs workshop data |
 | 4 | [workshop-process](https://github.com/virtual-labs/outreach-web-pages/blob/main/workshop-process/workshop-process.org) | This document contains Virtual Labs workshop process|
