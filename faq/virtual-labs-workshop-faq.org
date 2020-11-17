@@ -98,7 +98,7 @@
   related issues by posting on the mailing list for
   engineers contributing to Virtual Labs. You may
   [[https://groups.google.com/a/vlabs.ac.in/g/engineers?pli=1][Subscribe/Unsubscribe to the engineers]] mailing list. You
-  can also post your queries to the teacher's community [give link here]
+  can also post your queries to the [[https://currents.google.com/u/1/communities/104131148292250423165][teacher's community]]
 
 **** Q10. What are the terms and conditions for using Virtual Labs in your college?
   There is no financial liability on any party for using
