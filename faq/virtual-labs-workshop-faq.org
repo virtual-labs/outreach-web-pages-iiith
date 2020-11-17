@@ -9,9 +9,9 @@
   allows a user to connect to real equipment using a web
   browser. There are currently around 150 labs and 1500
   experiments at various stages of development and
-  deployment. They are currently hosted at [[http://vlabs.iiit.ac.in/][Vlabs]]. Virtual
-  Labs is an initiative of Ministry of Human Resources,
-  India.
+  deployment. They are currently hosted at [[http://vlab.co.in/][Virtual
+  Labs]]. Virtual Labs is an initiative of Ministry of Human
+  Resources, India.
 
 **** Q02. Who can request for a Virtual Labs Workshop?
   Workshops can be requested by faculty members or
@@ -44,7 +44,8 @@
   college/institute would have to meet the following
   requirements:
 
-    - [[http://vlabs.iiit.ac.in/][Vlabs]] web page should be accessible from the browser.
+    - [[http://vlab.co.in/][Virtual Labs]] web page should be accessible from the
+      browser.
 
     - [[https://www.java.com/en/download/][Java]] must be downloadable through the Internet and
       Gmail must be accessible.
@@ -52,9 +53,10 @@
     - The college/institute should be a Central/State
       University or institute/college approved by AICTE/UGC.
 
-    - For onsite workshops,the college/institute must have an auditorium with a
-      seating capacity of at least 100 and a
-      designated/common lab space having 35 PCs or more.
+    - For onsite workshops,the college/institute must have
+      an auditorium with a seating capacity of at least 100
+      and a designated/common lab space having 35 PCs or
+      more.
 
     - In the event that the Internet operates behind a
       firewall, the specific communication ports 3306, 5900,
@@ -74,9 +76,8 @@
      Team.
 
    * On confirmation from the Virtual Labs team on the
-     workshop date (as filled in the Expression of Interest),
-     you would need to download a checklist
-     [[https://docs.google.com/document/d/1CvHfQTX331oEJlaXvQHaqjY2y8q_Esj5FFDs3hOG36Q/edit][form]]
+     workshop date (as filled in the Expression of
+     Interest), you would need to download a checklist [[https://docs.google.com/document/d/1CvHfQTX331oEJlaXvQHaqjY2y8q_Esj5FFDs3hOG36Q/edit][form]]
      You would then need to mail the duly fill/scanned form
      to [[mailto:ioc-iiith@vlabs.ac.in][ioc-iiith@vlabs.ac.in]]
 
@@ -98,7 +99,7 @@
   related issues by posting on the mailing list for
   engineers contributing to Virtual Labs. You may
   [[https://groups.google.com/a/vlabs.ac.in/g/engineers?pli=1][Subscribe/Unsubscribe to the engineers]] mailing list. You
-  can also post your queries to the [[https://currents.google.com/u/1/communities/104131148292250423165][teacher's community]]
+  can also post your queries to the [[https://currents.google.com/u/1/communities/104131148292250423165][teacher's community]].
 
 **** Q10. What are the terms and conditions for using Virtual Labs in your college?
   There is no financial liability on any party for using
