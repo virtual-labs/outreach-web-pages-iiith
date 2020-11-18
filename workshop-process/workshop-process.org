@@ -20,7 +20,7 @@
    management of the interested Science & Engineering Institutions.
    
 ** Requirements
-*** Requirements for Online version 
+*** Requirements for Online Version 
     - The institute should be a Central/State University or
       institute/college approved by AICTE/UGC.
 
@@ -61,7 +61,7 @@
            workshop date.
          
     
-*** Requirements for Onsite Workshops
+*** Requirements for Onsite Version
 
     1. Students of II, III and IV years across all Engineering
        Disciplines.
@@ -80,7 +80,7 @@
       1. Make sure that the requirements
          (onsite/online) are met.
 
-      2. Fill the [[https://docs.google.com/forms/d/e/1FAIpQLScvUGaE6ln6JzeIVc2CqTXwac_R69WhzoM5TrW6y99hFB6nbw/viewform?embedded=true)+form.][Expression of Interest form]]
+      2. Fill the [[https://docs.google.com/forms/d/e/1FAIpQLScvUGaE6ln6JzeIVc2CqTXwac_R69WhzoM5TrW6y99hFB6nbw/viewform?embedded=true)+form.][Expression of Interest form]].
 
       3. Wait for the Virtual Labs Outreach Team to contact you in
          5-10 working days. Further communications would happen
