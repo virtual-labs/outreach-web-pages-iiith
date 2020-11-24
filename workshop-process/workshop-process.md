@@ -14,8 +14,7 @@
 
     - A good Internet connection/link for each individual participant should be available. 
     
-    - Java must be downloadable through the Internet and Gmail should
-      be accessible.
+    - Java must be downloadable through the Internet and Gmail should be accessible.
 
       System configuration (Recommended) 
       
@@ -37,10 +36,8 @@
        3. Online feedback forms filled in by participants, collected by the college and uploaded to the drive shared by the Virtual Labs team.
        4. A Letter from the head of the college confirming the workshop along with the number of participants and date. The template for this letter will be shared with the College by the Virtual Labs Team on confirmation of workshop date.
 #### Requirements for Onsite Version 
-    1. Students of II, III and IV years across all Engineering
-       Disciplines.
-    2. 30-60 student per session.  The minimum number of participants
-       covered in a day must be at least 200, in multiple sessions.
+    1. Students of II, III and IV years across all Engineering Disciplines.
+    2. 30-60 student per session.  The minimum number of participants covered in a day must be at least 200, in multiple sessions.
     3. System configuration (Recommended for each person)
         - Browser: Firefox and Chrome
         - Internet connection (4 Mbps) with Virtual labs web page accessible from the browser.
@@ -51,7 +48,7 @@ Follow the steps below to have a workshop conducted at your college :
    
    1. Make sure that the requirements (onsite/online) are met.
 
-   2. Fill the [Expression of Interest form](https://docs.google.com/forms/d/e/1FAIpQLScvUGaE6ln6JzeIVc2CqTXwac_R69WhzoM5TrW6y99hFB6nbw/viewform?embedded=true)+form.).
+   2. Fill the [Expression of Interest form](https://docs.google.com/forms/d/e/1FAIpQLScvUGaE6ln6JzeIVc2CqTXwac_R69WhzoM5TrW6y99hFB6nbw/viewform?embedded=true).
 
    3. Wait for the Virtual Labs Outreach Team to contact you in 5-10 working days. Further communications would happen through email.
 
@@ -59,8 +56,7 @@ Follow the steps below to have a workshop conducted at your college :
 
    5. Acknowledge the above confirmation for the Virtual Labs Outreach Team to conduct the workshop on the scheduled date and time.
          
-   6. Provide the following documents on completion of the workshop:
-      
+   6. Provide the following documents on completion of the workshop :      
        - Attendance sheets duly signed by each of the participants.
        - Feedback on forms made available to the college by the Virtual Labs team on confirmation of the workshop date.
        - Photographs of each workshop session.
