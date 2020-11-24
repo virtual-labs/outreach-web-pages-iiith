@@ -16,22 +16,22 @@
     
  3. Java must be downloadable through the Internet and Gmail should be accessible.
 
- 4. System configuration (Recommended) 
+ 4. System configuration (Recommended) : 
       
-     - Browser: Firefox and Chrome
+     - Browser: Firefox and Chrome.
 
-     - Plugins: Flash, Java 1.6 version, and IcedTea
+     - Plugins: Flash, Java 1.6 version, and IcedTea.
 
-     - JavaScript should be enabled on the browser
+     - JavaScript should be enabled on the browser.
 
-     - No pop-up blockers
+     - No pop-up blockers.
 
-  5. Pre-Workshop checklist
+  5. Pre-Workshop checklist : 
     
       - [Virtual Labs](https://www.vlab.co.in/)  web page should be accessible from the browser.
 
 #### Documents to be submitted  by College after the online workshop:
-   1. Attendance sheet either from the web interface tool on which the workshop was conducted (e.g: Zoom or Cisco Webex or Google Meet etc)
+   1. Attendance sheet either from the web interface tool on which the workshop was conducted (e.g: Zoom or Cisco Webex or Google Meet etc).
    
    2. A screenshot/snapshot of the particpants obtained from the meeting tool.
    
@@ -44,7 +44,9 @@
    2. 30-60 student per session.  The minimum number of participants covered in a day must be at least 200, in multiple sessions.
    
    3. System configuration (Recommended for each person).
+
       - Browser: Firefox and Chrome
+
       - Internet connection (4 Mbps) with Virtual labs web page accessible from the browser.
    
    4. One multimedia projector.
