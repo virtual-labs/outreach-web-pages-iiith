@@ -10,39 +10,39 @@
 ###  Requirements
 #### Requirements for Online Version  
 
-    - The institute should be a Central/State University or institute/college approved by AICTE/UGC.
+ 1. The institute should be a Central/State University or institute/college approved by AICTE/UGC.
 
-    - A good Internet connection/link for each individual participant should be available. 
+ 2. A good Internet connection/link for each individual participant should be available. 
     
-    - Java must be downloadable through the Internet and Gmail should be accessible.
+ 3. Java must be downloadable through the Internet and Gmail should be accessible.
 
-      System configuration (Recommended) 
+ 4. System configuration (Recommended) 
       
-      - Browser: Firefox and Chrome
+     - Browser: Firefox and Chrome
 
-      - Plugins: Flash, Java 1.6 version, and IcedTea
+     - Plugins: Flash, Java 1.6 version, and IcedTea
 
-      - JavaScript should be enabled on the browser
+     - JavaScript should be enabled on the browser
 
-      - No pop-up blockers
+     - No pop-up blockers
 
-    Pre-Workshop checklist
+  5. Pre-Workshop checklist
     
-      - [Virtual Labs](www.vlab.co.in)  web page should be accessible from the browser.
+      - [Virtual Labs](https://www.vlab.co.in/)  web page should be accessible from the browser.
 
-   Documents to be submitted  by College after the online workrshop:
-       1. Attendance sheet either from the web interface tool on which the workshop was conducted (e.g: Zoom or Cisco Webex or Google Meet etc)
-       2. A screenshot/snapshot of the particpants obtained from the meeting tool.
-       3. Online feedback forms filled in by participants, collected by the college and uploaded to the drive shared by the Virtual Labs team.
-       4. A Letter from the head of the college confirming the workshop along with the number of participants and date. The template for this letter will be shared with the College by the Virtual Labs Team on confirmation of workshop date.
+#### Documents to be submitted  by College after the online workshop:
+   1. Attendance sheet either from the web interface tool on which the workshop was conducted (e.g: Zoom or Cisco Webex or Google Meet etc)
+   2. A screenshot/snapshot of the particpants obtained from the meeting tool.
+   3. Online feedback forms filled in by participants, collected by the college and uploaded to the drive shared by the Virtual Labs team.
+   4. A Letter from the head of the college confirming the workshop along with the number of participants and date. The template for this letter will be shared with the College by the Virtual Labs Team on confirmation of workshop date.
 #### Requirements for Onsite Version 
-    1. Students of II, III and IV years across all Engineering Disciplines.
-    2. 30-60 student per session.  The minimum number of participants covered in a day must be at least 200, in multiple sessions.
-    3. System configuration (Recommended for each person)
-        - Browser: Firefox and Chrome
-        - Internet connection (4 Mbps) with Virtual labs web page accessible from the browser.
-    4. One multimedia projector
-    5. A lab that can accommodate the students, computers and projector.
+   1. Students of II, III and IV years across all Engineering Disciplines.
+   2. 30-60 student per session.  The minimum number of participants covered in a day must be at least 200, in multiple sessions.
+   3. System configuration (Recommended for each person)
+      - Browser: Firefox and Chrome
+      - Internet connection (4 Mbps) with Virtual labs web page accessible from the browser.
+   4. One multimedia projector
+   5. A lab that can accommodate the students, computers and projector.
 ### Request for Workshops
 Follow the steps below to have a workshop conducted at your college :
    
@@ -56,12 +56,7 @@ Follow the steps below to have a workshop conducted at your college :
 
    5. Acknowledge the above confirmation for the Virtual Labs Outreach Team to conduct the workshop on the scheduled date and time.
          
-   6. Provide the following documents on completion of the workshop :      
-       - Attendance sheets duly signed by each of the participants.
-       - Feedback on forms made available to the college by the Virtual Labs team on confirmation of the workshop date.
-       - Photographs of each workshop session.
-       - A Letter from the head of the college confirming the workshop along with the number of participants and date. The template for this letter   will be shared with the College by the Virtual Labs Team on confirmation of workshop date.
-
+   6. Provide as the listed above documents on completion of workshop.
  
 
  
