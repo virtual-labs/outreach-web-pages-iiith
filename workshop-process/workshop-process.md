@@ -8,7 +8,7 @@
 ### Audience
   Workshops can be requested by faculty members or college management of the interested Science & Engineering Institutions.
 ###  Requirements
-#### Requirements for Online Version  
+#### Requirements for Onsite Workshop  
 
  1. The institute should be a Central/State University or institute/college approved by AICTE/UGC.
 
@@ -30,7 +30,7 @@
     
       - [Virtual Labs](https://www.vlab.co.in/)  web page should be accessible from the browser.
 
-#### Documents to be submitted  by College after the online workshop :
+#### Documents to be submitted for Onsite Workshop :
    1. Attendance sheet either from the web interface tool on which the workshop was conducted (e.g: Zoom or Cisco Webex or Google Meet etc).
    
    2. A screenshot/snapshot of the particpants obtained from the meeting tool.
@@ -52,7 +52,7 @@
    4. One multimedia projector.
    
    5. A lab that can accommodate the students, computers and projector.
-### Request for Workshops
+### Requirements for Online Workshop 
 Follow the steps below to have a workshop conducted at your college :
    
    1. Make sure that the requirements (onsite/online) are met.
