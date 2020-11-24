@@ -30,7 +30,7 @@
     
       - [Virtual Labs](https://www.vlab.co.in/)  web page should be accessible from the browser.
 
-#### Documents to be submitted  by College after the online workshop:
+#### Documents to be submitted  by College after the online workshop :
    1. Attendance sheet either from the web interface tool on which the workshop was conducted (e.g: Zoom or Cisco Webex or Google Meet etc).
    
    2. A screenshot/snapshot of the particpants obtained from the meeting tool.
