@@ -29,7 +29,7 @@
 
     Pre-Workshop checklist
     
-      - [[www.vlab.co.in][Virtual Labs]]  web page should be accessible from the browser.
+      - [Virtual Labs](www.vlab.co.in)  web page should be accessible from the browser.
 
    Documents to be submitted  by College after the online workrshop:
        1. Attendance sheet either from the web interface tool on which the workshop was conducted (e.g: Zoom or Cisco Webex or Google Meet etc)
@@ -51,7 +51,7 @@ Follow the steps below to have a workshop conducted at your college :
    
    1. Make sure that the requirements (onsite/online) are met.
 
-   2. Fill the [[https://docs.google.com/forms/d/e/1FAIpQLScvUGaE6ln6JzeIVc2CqTXwac_R69WhzoM5TrW6y99hFB6nbw/viewform?embedded=true)+form.][Expression of Interest form]].
+   2. Fill the [Expression of Interest form](https://docs.google.com/forms/d/e/1FAIpQLScvUGaE6ln6JzeIVc2CqTXwac_R69WhzoM5TrW6y99hFB6nbw/viewform?embedded=true)+form.).
 
    3. Wait for the Virtual Labs Outreach Team to contact you in 5-10 working days. Further communications would happen through email.
 
