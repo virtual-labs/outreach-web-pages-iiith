@@ -67,5 +67,11 @@ Follow the steps below to have a workshop conducted at your college :
          
    6. Provide as listed above documents on completion of workshop.
  
+### Documents to be submitted for Online Workshop
+
+   1. Attendance sheets duly signed by each of the participants.
+   2. Feedback on forms made available to the college by the Virtual Labs team on confirmation of the workshop date.
+   3. Photographs of each workshop session.
+   4. A Letter from the head of the college confirming the workshop along with the number of participants and date. The template for this letter will be shared with the College by the Virtual Labs Team on confirmation of workshop date.
 
  
