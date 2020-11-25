@@ -12,7 +12,7 @@
 
   Workshops can be requested by faculty members or college management of the interested Science & Engineering Institutions.
 
-###  Requirements
+###  Workshop Requirements
 
 #### Requirements for Online Workshop  
 
