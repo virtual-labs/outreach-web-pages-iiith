@@ -1,17 +1,11 @@
 #+title:  virtual-labs-workshop-faq
 #+SETUPFILE: ../org-templates/level-1.org
 
-**** Q01. What are Virtual Labs?
-  Virtual Labs are intended to augment the learning of
-  science and engineering subjects through performing
-  experiments. The experiments are designed either as
-  simulations or as remote triggered. A remote triggered lab
-  allows a user to connect to real equipment using a web
-  browser. There are currently around 150 labs and 1500
-  experiments at various stages of development and
-  deployment. They are currently hosted at [[http://vlab.co.in/][Virtual
-  Labs]]. Virtual Labs is an initiative of Ministry of Human
-  Resources, India.
+**** Q01. What is a Virtual Labs Workshop?
+  Virtual Labs Team organizes workshops with hands-on practice 
+  sessions on Virtual Labs for interested Science & Engineering Institutions. 
+  The sessions are conducted for faculty members and students of interested 
+  institutes upon expression of their interest for Virtual Labs workshop.
 
 **** Q02. Who can request for a Virtual Labs Workshop?
   Workshops can be requested by faculty members or
@@ -21,9 +15,15 @@
 **** Q03. Who can participate in the Workshop?
   All interested faculty and students of the
   college/institutes can participate in the workshop.
-
-**** Q04. What are the system requirements for a Virtual Lab Workshop?
-  For a Virtual Labs workshop to be conducted, your
+  
+**** Q04. What are the modes of Virtual Labs Workshop?
+  There are two modes of Virtual Labs Workshop - Onsite and Online.
+  Onsite workshops are conducted in the premises of the college 
+  requesting the workshop whereas online workshops as the name 
+  suggests are conducted as webinars. 
+  
+**** Q05. What are the system requirements for a Onsite Virtual Lab Workshop?
+  For a  Virtual Labs onsite workshop to be conducted, your
   college/institute would have to meet the following system
   requirements: System configuration (Recommended)
 
@@ -39,7 +39,7 @@
 
     - JavaScript should be enabled on the browser
 
-**** Q05. What are the other requirements for a Virtual Labs Workshop?
+**** Q06. What are the other requirements for a Onsite Virtual Labs Workshop?
   For a Virtual Labs workshop to be conducted , your
   college/institute would have to meet the following
   requirements:
@@ -62,13 +62,34 @@
       firewall, the specific communication ports 3306, 5900,
       5902, and 8700 would need to be opened to facilitate
       Virtual Labs network traffic.
+      
+ **** Q07. What are the system requirements for a Online Virtual Lab Workshop?
+  For a  Virtual Labs online workshop to be conducted, your
+  college/institute would have to meet the following system
+  requirements: 
+  
+  - The institute should be a Central/State University or institute/college approved by AICTE/UGC.
 
-**** Q06. How can I request for a workshop to be conducted at my college
+  - A good Internet connection/link for each individual participant should be available.
+
+  - Java must be downloadable through the Internet and Gmail should be accessible.
+
+  - System configuration (Recommended) :
+
+  - Browser: Firefox and Chrome.
+
+  - Plugins: Flash, Java 1.6 version, and IcedTea.
+
+  - JavaScript should be enabled on the browser.
+
+  - No pop-up blockers.
+
+**** Q08. How can I request for a workshop to be conducted at my college
 
    You can request for a workshop to be conducted at your
    college by following the below steps :
 
-   * Please make sure that the requirements are met.
+   * Make sure that the requirements are met.
 
    * Fill the [[https://docs.google.com/a/vlabs.ac.in/forms/d/e/1FAIpQLScvUGaE6ln6JzeIVc2CqTXwac_R69WhzoM5TrW6y99hFB6nbw/viewform?embedded=true][Expression of Interest]] form.
 
@@ -85,23 +106,24 @@
      Team would conduct the online/Inperson workshop on the
      scheduled date.
 
- 
-**** Q07. What would be covered in the workshop?
+**** Q09. What would be covered in the workshop?
   An overview, demo and hands-on of two Virtual Labs will be
   covered during the workshop.
 
-**** Q08. Does my college have to pay for the workshops?
+**** Q10. Does my college have to pay for the workshops?
   College/Institute will have to pay for the travel, lodging
-  and boarding for two Virtual Labs representatives.
+  and boarding for two Virtual Labs representatives for an 
+  Onsite Workshop. Online workshops will not incur any expenditure 
+  for the college/institute. 
 
-**** Q09. Where can I get support on Virtual Labs Workshops?
+**** Q11. Where can I get support on Virtual Labs Workshops?
   You can get help on workshops and other Virtual Labs
   related issues by posting on the mailing list for
   engineers contributing to Virtual Labs. You may
   [[https://groups.google.com/a/vlabs.ac.in/g/engineers?pli=1][Subscribe/Unsubscribe to the engineers]] mailing list. You
   can also post your queries to the [[https://currents.google.com/u/1/communities/104131148292250423165][teacher's community]].
 
-**** Q10. What are the terms and conditions for using Virtual Labs in your college?
+**** Q12. What are the terms and conditions for using Virtual Labs in your college?
   There is no financial liability on any party for using
   Virtual Labs. It is free to use.
 
@@ -112,6 +134,6 @@
     contact for all logistical and technical coordination
     between the institute and Virtual Labs.
 
-**** Q11. Where have the Virtual Labs workshops been conducted?
+**** Q13. Where have the Virtual Labs workshops been conducted?
   Please follow the [[http://outreach.vlabs.ac.in/ws_details#/ws-list][link]] to view the list of colleges where
   Virtual Labs Workshops have been conducted.
