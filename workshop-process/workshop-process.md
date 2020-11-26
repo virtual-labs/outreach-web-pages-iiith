@@ -1,4 +1,3 @@
-# outreach-web-pages
 
 ## Virtual Labs Workshops
 
