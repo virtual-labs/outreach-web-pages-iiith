@@ -63,8 +63,8 @@
       5902, and 8700 would need to be opened to facilitate
       Virtual Labs network traffic.
       
- **** Q07. What are the system requirements for a Online Virtual Lab Workshop?
-  For a  Virtual Labs online workshop to be conducted, your
+**** Q07. What are the system requirements for a Online Virtual Lab Workshop?
+  For a  Online Virtual Labs workshop to be conducted, your
   college/institute would have to meet the following system
   requirements: 
   
@@ -86,23 +86,20 @@
 
 **** Q08. How can I request for a workshop to be conducted at my college
 
-   You can request for a workshop to be conducted at your
-   college by following the below steps :
-
    * Make sure that the requirements are met.
 
    * Fill the [[https://docs.google.com/a/vlabs.ac.in/forms/d/e/1FAIpQLScvUGaE6ln6JzeIVc2CqTXwac_R69WhzoM5TrW6y99hFB6nbw/viewform?embedded=true][Expression of Interest]] form.
 
-   * You would be contacted by the Virtual Labs Outreach
+   * Wait to be contacted by the Virtual Labs Outreach
      Team.
 
    * On confirmation from the Virtual Labs team on the
      workshop date (as filled in the Expression of
-     Interest), you would need to download a checklist [[https://docs.google.com/document/d/1CvHfQTX331oEJlaXvQHaqjY2y8q_Esj5FFDs3hOG36Q/edit][form]]
-     You would then need to mail the duly fill/scanned form
+     Interest), download a checklist [[https://docs.google.com/document/d/1CvHfQTX331oEJlaXvQHaqjY2y8q_Esj5FFDs3hOG36Q/edit][form]]
+     and  mail the duly fill/scanned form
      to [[mailto:ioc-iiith@vlabs.ac.in][ioc-iiith@vlabs.ac.in]]
 
-   * On receipt of the above form, Virtual Labs Outreach
+   On receipt of the above form, Virtual Labs Outreach
      Team would conduct the online/Inperson workshop on the
      scheduled date.
 
