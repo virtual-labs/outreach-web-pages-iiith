@@ -1,19 +1,19 @@
 
-## Virtual Labs Workshops
+# Virtual Labs Workshops
 
-### Overview and Motivation
+## Overview and Motivation
 
   Virtual Labs Team organizes workshops and hands-on practice sessions on Virtual Labs (both onsite and online) for interested Science & Engineering Institutions. Training sessions are conducted for faculty members and students of interested institutes upon the expression of their interest in Virtual Labs workshop.
    
-  Any of the 1500 odd experiments can be performed at all times providing a good opportunity for continuous usage. On completion of the emonstrations and hands-on sessions, the faculty members and the students will need to submit the feedback form to the Virtual Labs team. These forms will be compiled and analyzed for further improvements in the Virtual Labs.
+  Any of the 1500 odd experiments can be performed at all times providing a good opportunity for continuous usage. On completion of the demonstrations and hands-on sessions, the faculty members and the students will need to submit the feedback form to the Virtual Labs team. These forms will be compiled and analyzed for further improvements in the Virtual Labs.
   
-### Audience
+## Audience
 
   Workshops can be requested by faculty members or college management of the interested Science & Engineering Institutions.
 
-###  Workshop Requirements
+##  Workshop Requirements
 
-#### Requirements for Online Workshop  
+### Requirements for Online Workshop  
 
  1. The institute should be a Central/State University or institute/college approved by AICTE/UGC.
 
@@ -35,7 +35,7 @@
     
       - [Virtual Labs](https://www.vlab.co.in/)  web page should be accessible from the browser.
 
-#### Documents to be submitted for Online Workshop 
+### Documents to be submitted for Online Workshop 
 
    1. Attendance sheet either from the web interface tool on which the workshop was conducted (e.g: Zoom or Cisco Webex or Google Meet etc).
    
@@ -45,7 +45,7 @@
    
    4. A Letter from the head of the college confirming the workshop along with the number of participants and date. The template for this letter will be shared with the College by the Virtual Labs Team on confirmation of workshop date.
    
-#### Requirements for Onsite Version 
+### Requirements for Onsite Version 
 
    1. Students of II, III and IV years across all Engineering Disciplines.
    
@@ -61,7 +61,7 @@
    
    5. A lab that can accommodate the students, computers and projector.
    
-#### Documents to be submitted for Onsite Workshop
+### Documents to be submitted for Onsite Workshop
 
    1. Attendance sheets duly signed by each of the participants.
    
@@ -71,7 +71,7 @@
    
    4. A Letter from the head of the college confirming the workshop along with the number of participants and date. The template for this letter will be shared with the College by the Virtual Labs Team on confirmation of workshop date.
    
-### Request a Workshop  
+## Request a Workshop  
 
 Follow the steps below to have a workshop conducted at your college :
    
