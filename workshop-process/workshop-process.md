@@ -77,7 +77,7 @@ Follow the steps below to have a workshop conducted at your college :
    
    1. Make sure that the requirements (onsite/online) are met.
 
-   2. Fill the [Expression of Interest form](https://docs.google.com/forms/d/e/1FAIpQLScvUGaE6ln6JzeIVc2CqTXwac_R69WhzoM5TrW6y99hFB6nbw/viewform?embedded=true).
+   2. Fill the [Expression of Interest form](http://38.100.110.143/EOI-2023.pdf).
 
    3. Wait for the Virtual Labs Outreach Team to contact you in 5-10 working days. Further communications would happen through email.
 
