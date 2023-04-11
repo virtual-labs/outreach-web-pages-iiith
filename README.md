@@ -16,10 +16,11 @@
 
 | S.NO | Document Locaiton| Purpose  |
 | :---: | :---: | :---: |
-| 1 | [faq](https://github.com/virtual-labs/outreach-web-pages/blob/main/faq/virtual-labs-workshop-faq.org) |  This document contains Virtual Labs faq. |
-| 2 | [photographs](https://github.com/virtual-labs/outreach-web-pages/tree/main/photographs) | This directory contains photo gallery of Virtual Labs workshops.  |
-| 3 | [workshop-data](https://github.com/virtual-labs/outreach-web-pages-iiith/tree/main/workshop-data) | This document contains Virtual Labs workshop data. |
-| 4 | [workshop-process](https://github.com/virtual-labs/outreach-web-pages-iiith/blob/main/workshop-process/workshop-process.md) | This document contains Virtual Labs workshop process.|
+| 1 | [faq](https://github.com/virtual-labs/outreach-web-pages-iiith/tree/main/faq) |  This document contains Virtual Labs Outreach faq. |
+| 2 | [faq-virtual-labs](https://github.com/virtual-labs/outreach-web-pages-iiith/tree/main/faq-virtual-labs) |  This document contains Virtual Labs faq. |
+| 3 | [photographs](https://github.com/virtual-labs/outreach-web-pages/tree/main/photographs) | This directory contains photo gallery of Virtual Labs workshops.  |
+| 4 | [workshop-data](https://github.com/virtual-labs/outreach-web-pages-iiith/tree/main/workshop-data) | This document contains Virtual Labs workshop data. |
+| 5 | [workshop-process](https://github.com/virtual-labs/outreach-web-pages-iiith/blob/main/workshop-process/workshop-process.md) | This document contains Virtual Labs workshop process.|
 
 
  
