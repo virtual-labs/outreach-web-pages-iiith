@@ -10,6 +10,7 @@ One  Nodal Center Coordinator (NCC) will be nominated from each NC by the head o
 
 **Participating Institutes**
 
+![Image](https://github.com/virtual-labs/outreach-web-pages-iiith/blob/main/nodal-centre-process/participating-institutes.png)
 
 **Tasks of the Nodal Center**
 
