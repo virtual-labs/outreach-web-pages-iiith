@@ -6,9 +6,10 @@ Nodal Centers are colleges interested in conducting Virtual Lab workshops and in
 
 **Who is Nodal Center Coordinator**
 
-One  Nodal Center Coordinator (NCC) will be nominated from each NC by the head of that institute. The NCC  will submit all the reports periodically to the Virtual Labs team of respective Participating Institute. 
+One  Nodal Center Coordinator (NCC) will be nominated from each NC by the head of that institute. The NCC  will submit all the reports periodically to the Virtual Labs team of the respective Participating Institute. 
 
 **Participating Institutes**
+
 
 **Tasks of the Nodal Center**
 
@@ -50,10 +51,10 @@ One  Nodal Center Coordinator (NCC) will be nominated from each NC by the head o
   -  Virtual Labs web page should be accessible from the browser.
 
 **Documents to be submitted for Online Workshop**
--  Attendance sheet either from the web interface tool on which the workshop was conducted (e.g: Zoom or Cisco Webex or Google Meet etc).
+-  Attendance sheet either from the web interface tool on which the workshop was conducted (e.g.: Zoom or Cisco Webex or Google Meet etc).
 -  A screenshot/snapshot of the participants obtained from the meeting tool.
--  Online feedback forms filled in by participants, collected by the college and uploaded to the drive shared by the Virtual Labs team.
--  A Letter from the head of the college confirming the workshop along with the number of participants and date. The template for this letter will be shared with the College by the Virtual Labs Team on confirmation of workshop date.
+-  Online feedback forms filled in by participants, collected by the college, and uploaded to the drive shared by the Virtual Labs team.
+-  A Letter from the head of the college confirming the workshop along with the number of participants and date. The template for this letter will be shared with the College by the Virtual Labs Team upon confirmation of the workshop date.
 
 **Requirements for Onsite Version**
 -  Students of II, III, and IV years across all Engineering Disciplines.
@@ -66,12 +67,12 @@ One  Nodal Center Coordinator (NCC) will be nominated from each NC by the head o
 -  Attendance sheets duly signed by each of the participants.
 -  Feedback on forms made available to the college by the Virtual Labs team on confirmation of the workshop date.
 -  Photographs of each workshop session.
--  A Letter from the head of the college confirming the workshop along with the number of participants and date. The template for this letter will be shared with the College by the Virtual Labs Team on confirmation of workshop date.
+-  A Letter from the head of the college confirming the workshop along with the number of participants and date. The template for this letter will be shared with the College by the Virtual Labs Team on confirmation of the workshop date.
 
 **Request a Workshop**
 -  Follow the steps below to have a workshop conducted at your college
   -  Make sure that the requirements (onsite/online) are met.
-  -  Fill the Expression of Interest form.
+  -  Fill the [Expression of Interest](http://38.100.110.143/EOI-2023.pdf) form.
   -  Wait for the Virtual Labs Outreach Team to contact you in 5-10 working days. Further communications would happen through email.
   -  Mark the workshop Date confirmed by the Virtual Labs Team through email.
   -  Acknowledge the above confirmation for the Virtual Labs Outreach Team to conduct the workshop on the scheduled date and time.
@@ -79,7 +80,7 @@ One  Nodal Center Coordinator (NCC) will be nominated from each NC by the head o
 
 
 **Some important links**
--  Attendance sheet: Link
--  Feedback form: Link
--  Report template: Link
--  Expression of Interest: Link
+-  Attendance sheet: [Link](https://drive.google.com/file/d/1rIaKjPTh6I4wY_6223b3JgQq476sDeSU/view?usp=drive_link)
+-  Feedback form: [Link](https://docs.google.com/document/d/1jJl33IG2edS0JHFtsxqwcn9Q-gf3i-dI/edit?usp=drive_link&ouid=106961684070023821907&rtpof=true&sd=true)
+-  Report template: [Link](https://docs.google.com/document/d/1In2LNqduLoLLFOHTzKrbibLuXm7kcIVm/edit?usp=drive_link&ouid=106961684070023821907&rtpof=true&sd=true)
+-  Expression of Interest: [Link](http://38.100.110.143/EOI-2023.pdf)
