@@ -8,15 +8,11 @@ Virtual Labs Team organizes workshops and hands-on practice sessions in Virtual 
 
 Nodal Centers are colleges interested in conducting Virtual Lab workshops and in using these labs in the classroom. An institute is enlisted as a nodal center for a period of one year. The appointment is renewable each year, based on the performance of the nodal  center and our achievement targets. Before appointing an institute as a Nodal Center, the  Participating Institute (PI) may conduct a workshop or webinar at the institute’s premises. 
 
-## Who is Nodal Center Coordinator
-
-One  Nodal Center Coordinator (NCC) will be nominated from each NC by the head of that institute. The NCC  will submit all the reports periodically to the Virtual Labs team of the respective Participating Institute. 
-
 ## Participating Institutes
 
 ![Image](https://github.com/virtual-labs/outreach-web-pages-iiith/blob/main/nodal-centre-process/participating-institutes.png)
 
-## Tasks of the Nodal Center
+## Types of Nodal Center Enrollment
 
 ### New Enrollment of NC
 -  The institute that has never been an NC before and submits the Expression of Interest (EOI) form to any of the consortium institutes will be considered a candidate for enrollment as a new NC. Once enrolled as a Nodal Center, the institute, in one year of enrollment, will be given the following targets:
@@ -39,7 +35,12 @@ One  Nodal Center Coordinator (NCC) will be nominated from each NC by the head o
   - Should popularize the usage of Virtual Labs in the region
   - Must help respective PI in identifying potential Nodal Centers.
   - Should motivate NCs in the region to reach their usage targets.
-  - Should attend the meetings regarding Virtual Labs when notified by the PI. 
+  - Should attend the meetings regarding Virtual Labs when notified by the PI.
+
+
+## Who is Nodal Center Coordinator
+
+One  Nodal Center Coordinator (NCC) will be nominated from each NC by the head of that institute. The NCC  will submit all the reports periodically to the Virtual Labs team of the respective Participating Institute. 
 
 ## Responsibilities as NCC
 1. The head of the Institution will nominate a Nodal Center Coordinator (NCC) at each Nodal Center (NC).
@@ -68,16 +69,17 @@ One  Nodal Center Coordinator (NCC) will be nominated from each NC by the head o
 -  Internet connection (4 Mbps) with Virtual Labs web page accessible from the browser.
 -  One multimedia projector.
 -  A lab that can accommodate the students, computers, and a projector.
--  Documents to be submitted for Onsite Workshop
+
+## Documents to be submitted for Onsite Workshop
 -  Attendance sheets duly signed by each of the participants.
 -  Feedback on forms made available to the college by the Virtual Labs team on confirmation of the workshop date.
 -  Photographs of each workshop session.
--  A Letter from the head of the college confirming the workshop along with the number of participants and date. The template for this letter will be shared with the College by the Virtual Labs Team on confirmation of the workshop date.
+-  A Letter from the head of the college confirming the workshop along with the number of participants and date. The template for this letter will be shared with the College by the Virtual Labs Team upon confirmation of the workshop date.
 
-## Request a Workshop
+## Steps to request a Workshop
 -  Follow the steps below to have a workshop conducted at your college
   -  Make sure that the requirements (onsite/online) are met.
-  -  Fill the [Expression of Interest](http://38.100.110.143/EOI-2023.pdf) form.
+  -  Fill out the [Expression of Interest](http://38.100.110.143/EOI-2023.pdf) form.
   -  Wait for the Virtual Labs Outreach Team to contact you in 5-10 working days. Further communications would happen through email.
   -  Mark the workshop Date confirmed by the Virtual Labs Team through email.
   -  Acknowledge the above confirmation for the Virtual Labs Outreach Team to conduct the workshop on the scheduled date and time.
