@@ -30,22 +30,28 @@ Nodal Centers are colleges interested in conducting Virtual Lab workshops and in
   -   Recognition for NC in NAAC Accreditation.
 
 ## Roles and responsibilities of Nodal Center
+  - Nodal Coordinators will be appointed at each Nodal Centre by the Head of the Institution.
+  - He/she should continue with his/her responsibilities for at least one academic semester.
+  - Requests for a change of Nodal Coordinator will not be accepted in the middle of the academic semester, except in extreme circumstances, for example when the Coordinator proceeds on leave or quits the Institute. The nomination of a new Nodal Coordinator will be accepted upon receiving confirmation from the previous Nodal Coordinator.
   - Should carry out Outreach activities smoothly.
-  - Address the technical issues faced by an NC and help resolve them by coordinating with the outreach team at the PI.
-  - Should popularize the usage of Virtual Labs in the region
-  - Must help respective PI in identifying potential Nodal Centers.
-  - Should motivate NCs in the region to reach their usage targets.
-  - Should attend the meetings regarding Virtual Labs when notified by the PI.
+  - Should popularize the usage of Virtual Labs.
+  - Should reach their usage targets.
+  - Should attend the meetings regarding Virtual Labs conducted by PI.
 
 
 ## Who is Nodal Center Coordinator
 
 One  Nodal Center Coordinator (NCC) will be nominated from each NC by the head of that institute. The NCC  will submit all the reports periodically to the Virtual Labs team of the respective Participating Institute. 
 
-## Responsibilities as NCC
-1. The head of the Institution will nominate a Nodal Center Coordinator (NCC) at each Nodal Center (NC).
-2. NCC should continue with his/her responsibilities for at least one semester.
-3. Each Nodal center will organize at least one workshop per semester as an outreach activity of Virtual Labs. Faculty members and students from nearby institutes may also be invited to attend the workshop or training program.
+## Responsibilities as Nodal Center Coordinator (NCC)
+- The Nodal Center Coordinator (NCC) will be the main interface between the Outreach Team of Virtual Labs, IIIT Hyderabad, and the Nodal Centre.
+- He/She will conduct training sessions for students and faculty members in his/her Institute.
+- NC may take help from other faculty members and support staff to coordinate training programs in their respective institutes.
+- A monthly progress report regarding Virtual Labs usage by the students must be submitted by the Nodal Coordinator to the IIIT Hyderabad, duly signed by the Director/Principal of the Institute.
+- NCs will coordinate workshops. If required, the Outreach team from IIIT Hyderabad may be invited.
+- The number of lab usage is expected to be greater than 8000 per year.
+- There is no financial commitment from Virtual Labs for the Nodal Center activity.
+- The Nodal Coordinator should submit a report of each workshop conducted, with relevant photographs. A template for the report will be shared by IIIT Hyderabad.
 
 ## Workshop Requirements
 
@@ -54,7 +60,7 @@ One  Nodal Center Coordinator (NCC) will be nominated from each NC by the head o
 -  A good Internet connection/link for each individual participant should be available.
 -  Browser: Firefox and Chrome.
 -  Pre-Workshop checklist :
-  -  Virtual Labs web page should be accessible from the browser.
+   - Virtual Labs web page should be accessible from the browser.
 
 ## Documents to be submitted for Online Workshop
 -  Attendance sheet either from the web interface tool on which the workshop was conducted (e.g.: Zoom or Cisco Webex or Google Meet etc).
@@ -77,13 +83,13 @@ One  Nodal Center Coordinator (NCC) will be nominated from each NC by the head o
 -  A Letter from the head of the college confirming the workshop along with the number of participants and date. The template for this letter will be shared with the College by the Virtual Labs Team upon confirmation of the workshop date.
 
 ## Steps to request a Workshop
--  Follow the steps below to have a workshop conducted at your college
-  -  Make sure that the requirements (onsite/online) are met.
-  -  Fill out the [Expression of Interest](http://38.100.110.143/EOI-2023.pdf) form.
-  -  Wait for the Virtual Labs Outreach Team to contact you in 5-10 working days. Further communications would happen through email.
-  -  Mark the workshop Date confirmed by the Virtual Labs Team through email.
-  -  Acknowledge the above confirmation for the Virtual Labs Outreach Team to conduct the workshop on the scheduled date and time.
-  -  Provide as listed above documents on completion of the workshop.
+- Follow the steps below to have a workshop conducted at your college
+- Make sure that the requirements (onsite/online) are met.
+- Fill out the [Expression of Interest](http://38.100.110.143/EOI-2023.pdf) form.
+- Wait for the Virtual Labs Outreach Team to contact you in 5-10 working days. Further communications would happen through email.
+- Mark the workshop Date confirmed by the Virtual Labs Team through email.
+- Acknowledge the above confirmation for the Virtual Labs Outreach Team to conduct the workshop on the scheduled date and time.
+- Provide as listed above documents on completion of the workshop.
 
 
 ## Some important links
