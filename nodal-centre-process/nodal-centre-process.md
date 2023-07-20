@@ -39,7 +39,7 @@ Based on its geographical location a Nodal Center can be affiliated with any of 
 
 ### New Enrollment of Nodal Center
 -  The institute that has never been an NC before, submits the Expression of Interest (EOI) form to any of the consortium institutes and will be considered for enrollment as a new NC. Once the institute enrolled as an NC, the following will be the targets:
-   -   [Workshops](https://github.com/virtual-labs/outreach-web-pages-iiith/edit/main/nodal-centre-process/nodal-centre-process.md#workshop) - A minimum of 1 workshop during the one year of enrollment.
+   -   [Workshops](https://github.com/virtual-labs/outreach-web-pages-iiith/edit/main/nodal-centre-process/nodal-centre-process.md#workshop) - A minimum of 1 workshop during the one-year of enrollment.
    -   [Usages](https://github.com/virtual-labs/outreach-web-pages-iiith/edit/main/nodal-centre-process/nodal-centre-process.md#usage) - A minimum usage of 8000 per year from all the workshops and other classroom use of Virtual Labs.
 
 ### Re-Enrollment of Nodal Center
@@ -85,7 +85,7 @@ The agenda for the workshops that we propose to conduct at your college on mutua
 -  Report template: [Link](https://docs.google.com/document/d/1In2LNqduLoLLFOHTzKrbibLuXm7kcIVm/edit?usp=drive_link&ouid=106961684070023821907&rtpof=true&sd=true)
 -  Expression of Interest: [Link](http://38.100.110.143/EOI-2023.pdf)
 
-## Testimonials from IIIT-H NC's
+## Testimonials from IIIT-H Nodal Centers
 You can check out some of the anecdotes provided by our Nodal center coordinators by referring to this [link](https://github.com/virtual-labs/outreach-web-pages-iiith/blob/main/testimonials/outreach-testimonials.md#testimonials-from-iiit-h-nodal-centers).
 
 ## Definitions
