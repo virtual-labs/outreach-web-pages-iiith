@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Virtual Labs Team organizes workshops and hands-on practice sessions in Virtual Labs (both onsite and online) for interested Science & Engineering Institutions. Training sessions are conducted for faculty members and students of institutes upon the expression of their interest in the Virtual Labs workshop.
+Colleges which are not yet familiar with the use ofthe Virtual Lab Portal such as new colleges opting to use virtual experiments, are introduced to the features of the Virtual Labs portal through online or in person workshops. The idea is to show them thorugh a demo,  how to navigate  the portal to access the required experiments, perform them etc and thereby enthuse to use virtual Lab experiments.  To this end, Virtual Labs Team organizes workshops and hands-on practice sessions for interested Science & Engineering Institutions. Training sessions are conducted for faculty members and students of institutes upon the expression of their interest in the Virtual Labs workshop. In this effort a number of colleges express an interest to continue to use virtual expreiments and become part of the community of interested colleges, Such clleges are referred to as Nodal Centers. 
 
 ## Purpose
 
