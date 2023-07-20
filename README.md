@@ -1,8 +1,8 @@
 # outreach-web-pages
 
   This repository will hold the Virtual Labs outreach
-  workshop-process, faq, workshop-data, and workshop related
-  photographs gallery.
+  workshop-process, faq, nodal center process, nodal centre 
+  and workshop-data, and workshop-related photographs gallery.
 
   About Virtual Labs: Virtual Labs are intended to augment
   the learning of science and engineering subjects through
