@@ -29,9 +29,9 @@ Based on its geographical location a Nodal Center can be affiliated with any of 
 
 ## What are the roles and responsibilities of the Nodal Center? 
   - The head of the Institution of the Nodal Centre will be responsible for the appointment of a Nodal Coordinator from their Institute.
-  - The Nodal Coordinator would be required to continue with their responsibilities for at least one academic semester.
+  - The Nodal Center Coordinator would be required to continue with their responsibilities for at least one academic semester.
   - Requests for a change of Nodal Coordinator will not be accepted in the middle of the academic semester, except in extreme circumstances, for example when the Coordinator proceeds on leave or quits the Institute. The nomination of a new Nodal Coordinator will be accepted upon receiving confirmation from the previous Nodal Coordinator.
-  - Nodal Center should ensure the smooth execution of Outreach activities and promote the usage of Virtual Labs.
+  - The Nodal Center should ensure the smooth execution of Outreach activities and promote the usage of Virtual Labs.
   - The Nodal Center must accomplish the established targets for the utilization of Virtual Labs.
   - Participating in meetings organized by the Principal Investigator (PI) concerning Virtual Labs.
 
@@ -53,15 +53,15 @@ Nodal Center Coordinator (NCC) will be nominated from each NC by the head of the
 
 ## What are the responsibilities of the Nodal Center Coordinator?
 - The Nodal Center Coordinator (NCC) shall serve as the primary liaison between the Outreach Team of Virtual Labs, the Participating Institute, and the Nodal Centre.
-- The NCC will be responsible for organizing training sessions for students and faculty members within their respective Institute.
+- The NCC will be responsible for organizing training sessions for students and faculty members within their respective institutes.
 - The NCC may seek assistance from other faculty members and support staff to effectively coordinate training programs within their Institute.
-- On a monthly basis, the NCC must submit a progress report on the usage of Virtual Labs by the students to the Participating Institute,. The report should bear the signature of the Institute's Director/Principal.
+- On a monthly basis, the NCC must submit a progress report on the usage of Virtual Labs by the students to the Participating Institute. The report should bear the signature of the Institute's Director/Principal.
 - The NCC will be in charge of coordinating workshops, and if necessary, they may extend an invitation to the Outreach team from the Participating Institute.
 - It is expected that the annual lab usage will exceed 8000.
 - The Nodal Center activity does not involve any financial commitment from Virtual Labs.
 - After conducting each workshop, the NC must submit a comprehensive report, including relevant photographs. The Participating Institute will provide a template for the report.
 
-## Step-by-Step Guide to Becoming a Nodal Center
+## Step-by-Step Guide to become a Nodal Center
 - Initiate contact with any of the consortium institutions that you are interested in for potential collaboration.
 - Submit an [expression of interest](http://38.100.110.143/EOI-2023.pdf) document, duly completed and signed by the head of your institute, to the chosen consortium institution.
 - Approach the Principal Investigator (PI) to discuss the possibility of conducting a workshop at your institute's premises.
@@ -90,9 +90,9 @@ You can check out some of the anecdotes provided by our Nodal center coordinator
 
 ## Definitions
 ### Usage
-A single usage consists of a student or faculty member doing a Virtual Labs’ experiment through a workshop or in regular classroom use. The faculty member for holding workshop is responsible for certifying that a student has done the experiment. As part of attending a workshop, a student will submit a feedback form which lists the number of experiments that the student has done in that workshop.
+A single usage consists of a student or faculty member doing a Virtual Lab experiment through a workshop or in regular classroom use. The faculty member holding the workshop is responsible for certifying that a student has done the experiment. As part of attending a workshop, a student will submit a feedback form that lists the number of experiments that the student has done in that workshop.
 
 ### Workshop
-A single workshop lasts for at least 2.5 hours (150 minutes) duration. Each workshop has a 25-minute introduction followed by a demo session of 25 minutes and a student takes 20 minutes to do an experiment, then each student likely to do about 5 experiments in one workshop session. With 30 persons, this turns out to be 30 x 5 = 150 usages in a typical workshop. The NCs are encouraged to depend not only on workshops but also on classroom use to meet the semester usage targets.
+A single workshop lasts for at least 2.5 hours (150 minutes) duration. Each workshop has a 25-minute introduction followed by a demo session of 25 minutes and a student takes 20 minutes to do an experiment, then each student is likely to do about 5 experiments in one workshop session. With 30 persons, this turns out to be 30 x 5 = 150 usages in a typical workshop. The NCs are encouraged to depend not only on workshops but also on classroom use to meet the semester usage targets.
 
 
