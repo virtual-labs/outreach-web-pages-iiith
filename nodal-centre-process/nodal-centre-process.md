@@ -86,7 +86,7 @@ The agenda for the workshops that we propose to conduct at your college on mutua
 -  Expression of Interest: [Link](http://38.100.110.143/EOI-2023.pdf)
 
 ## Testimonials from IIIT-H NC's
-You can check out some of the anecdotes provided by our Nodal center coordinators by referring to this [link](https://github.com/virtual-labs/outreach-web-pages-iiith/blob/main/testimonials/outreach-testimonials.md).
+You can check out some of the anecdotes provided by our Nodal center coordinators by referring to this [link](https://github.com/virtual-labs/outreach-web-pages-iiith/blob/main/testimonials/outreach-testimonials.md#testimonials-from-iiit-h-nodal-centers).
 
 ## Definitions
 ### Usage
