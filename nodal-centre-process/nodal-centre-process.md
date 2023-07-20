@@ -1,8 +1,8 @@
 # Become a Nodal Center
 
-## Overview and Motivation
+## Overview
 
-Virtual Labs Team organizes workshops and hands-on practice sessions in Virtual Labs (both onsite and online) for interested Science & Engineering Institutions. Training sessions are conducted for faculty members and students of interested institutes upon the expression of their interest in the Virtual Labs workshop.
+Virtual Labs Team organizes workshops and hands-on practice sessions in Virtual Labs (both onsite and online) for interested Science & Engineering Institutions. Training sessions are conducted for faculty members and students of institutes upon the expression of their interest in the Virtual Labs workshop.
  
 ## What is Nodal Center
 
