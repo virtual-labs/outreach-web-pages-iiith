@@ -2,11 +2,11 @@
 
 ## Introduction
 
-Colleges which are not yet familiar with the use ofthe Virtual Lab Portal such as new colleges opting to use virtual experiments, are introduced to the features of the Virtual Labs portal through online or in person workshops. The idea is to show them thorugh a demo,  how to navigate  the portal to access the required experiments, perform them etc and thereby enthuse to use virtual Lab experiments.  To this end, Virtual Labs Team organizes workshops and hands-on practice sessions for interested Science & Engineering Institutions. Training sessions are conducted for faculty members and students of institutes upon the expression of their interest in the Virtual Labs workshop. In this effort a number of colleges express an interest to continue to use virtual expreiments and become part of the community of interested colleges, Such clleges are referred to as Nodal Centers. 
+Colleges which are not yet familiar with the use ofthe Virtual Lab Portal such as new colleges opting to use virtual experiments, are introduced to the features of the Virtual Labs portal through online or in person workshops. The idea is to show them thorugh a demo,  how to navigate  the portal to access the required experiments, perform them etc and thereby enthuse to use virtual Lab experiments.  To this end, Virtual Labs Team organizes workshops and hands-on practice sessions for interested Science & Engineering Institutions. Training sessions are conducted for faculty members and students of institutes upon the expression of their interest in the Virtual Labs workshop. In this effort a number of colleges express an interest to continue to use virtual expreiments and become part of the community of interested colleges, Such colleges oroterh recognized institutions are referred to as "Nodal Centers". 
 
 ## Purpose
 
-The document outlines both the procedure for becoming a Nodal Centre and the steps that Nodal Center Coordinators should take when requesting an outreach workshop. Additionally, it elaborates on the roles and responsibilities of the NC and NCC, as well as the process to initiate a workshop, all of which are discussed extensively within the document.
+The document outlines both the procedure for becoming a Nodal Centre and the steps that Nodal Center Coordinators should take when requesting an outreach workshop. Additionally, it elaborates on the roles and responsibilities of the Nodal Centers (NC) and NodalCenter Coordinator (NCC), as well as the process to initiate a workshop.
 
 ## Target Audience
 The colleges interested in participating in the Virtual Labs consortium to conduct workshops and promote virtual experiments are the target audience for this document.
